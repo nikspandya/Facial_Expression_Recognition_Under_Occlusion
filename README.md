@@ -1,2 +1,2 @@
 # Thesis_work
-all the codes for thesis work "facial expression recogntition uder partial occlusion"
+some of the codes from thesis work "facial expression recogntition uder partial occlusion"
