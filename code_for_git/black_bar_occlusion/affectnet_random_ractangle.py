@@ -10,7 +10,7 @@ from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 # hyper parameters
-batch_size_ = 400
+batch_size_ = 512
 num_epochs = 10
 img_rows, img_cols = 128, 128
 
